@@ -1720,92 +1720,18 @@ section.lazy-placeholder:after {
 .cid-r6ySSkqwEN .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-r6B1EmXADr {
-  padding-top: 105px;
-  padding-bottom: 15px;
-  background-color: #cccccc;
+.cid-sCqGeheM87 {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-r6AKslmzSD {
-  padding-top: 15px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
-}
-.cid-r6AKslmzSD .mbr-section-subtitle {
+.cid-sCqGeheM87 P {
   color: #767676;
 }
-.cid-r6AKslmzSD .container-table {
-  margin: 0 auto;
-}
-.cid-r6AKslmzSD .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-r6AKslmzSD .dataTables_wrapper {
-  display: block;
-}
-.cid-r6AKslmzSD .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-r6AKslmzSD .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-r6AKslmzSD table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
-}
-.cid-r6AKslmzSD table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-r6AKslmzSD table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-r6AKslmzSD table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-r6AKslmzSD table.table {
-  background: #ffffff;
-}
-.cid-r6AKslmzSD .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-r6AKslmzSD .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-r6AKslmzSD .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-r6AKslmzSD .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-r6AKslmzSD .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-r6AKslmzSD .dataTables_filter {
-    text-align: center;
-  }
-  .cid-r6AKslmzSD .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-r6AKslmzSD .head-item {
-  text-align: left;
+.cid-r6B1EmXADr {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cccccc;
 }
 .cid-r6B5XbTxe0 .navbar {
   background: #ffffff;
