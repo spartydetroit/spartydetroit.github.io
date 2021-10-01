@@ -26,7 +26,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Parnaso-Bold';
+  font-family: 'Futura Book';
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Futura Book';
   font-size: 1rem;
   font-display: swap;
 }
@@ -540,7 +540,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Futura Book';
   font-size: 1rem;
   font-display: swap;
 }

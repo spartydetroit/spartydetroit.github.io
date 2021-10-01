@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('Parnaso-Bold/font.woff');
 }
+@font-face {
+   font-family: 'Futura Book';
+   font-display: swap;
+   src: url('Futura Book/font.ttf');
+}
